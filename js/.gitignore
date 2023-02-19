@@ -29,7 +29,12 @@ let grams
 function MakePizza() {
     console.log("Colocamos un", bowl);
     console.log("añadir",GrFlour,water,oliveoil,yeast, GrSalt);
-    console.log("Mezclar todo")
+    console.log("Mezclar todo");
+    console.log("Dejar reposar 20 min. en cámara cerrada para que fermente");
+    console.log("Alisar hasta darle un grosor de 0,5 cm y forma redonda con un rodillo de cocina¨);
+    console.log("Pinchar la masa");
+    console.log("Añadir", 
+
     
 
 
